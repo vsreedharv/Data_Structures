@@ -1,1 +1,7 @@
 c:\users\venkata\documents\visual studio 2015\Projects\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Venkata\Git\Data_Structures-Repo\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Venkata\Git\Data_Structures-Repo\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+C:\Users\Venkata\Git\Data_Structures-Repo\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Venkata\Git\Data_Structures-Repo\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\LinearSearch\obj\Debug\LinearSearch.pdb
