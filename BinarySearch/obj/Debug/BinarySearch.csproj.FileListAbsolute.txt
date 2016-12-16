@@ -1,1 +1,6 @@
 C:\Users\Venkata\Git\Data_Structures-Repo\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Venkata\Git\Data_Structures-Repo\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Venkata\Git\Data_Structures-Repo\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Venkata\Git\Data_Structures-Repo\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\BinarySearch\obj\Debug\BinarySearch.pdb
