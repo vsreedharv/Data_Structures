@@ -1,0 +1,6 @@
+C:\Users\Venkata\Git\Amazon_Interview_Questions-Repo\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Venkata\Git\Amazon_Interview_Questions-Repo\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Venkata\Git\Amazon_Interview_Questions-Repo\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Venkata\Git\Amazon_Interview_Questions-Repo\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Venkata\Git\Amazon_Interview_Questions-Repo\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Venkata\Git\Amazon_Interview_Questions-Repo\SelectionSort\obj\Debug\SelectionSort.pdb
