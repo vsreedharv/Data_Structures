@@ -18,18 +18,17 @@ namespace BubbleSort
                 {
                     a[i] = Convert.ToInt32(Console.ReadLine());
                 }
-                int n = a.Length;
                 int flag, temp;
-                for (int k = 0; k < n - 1; k++)
+                for (int k = 0; k < a.Length - 1; k++)
                 {
                     flag = 0;
-                    for (int i = 0; i < n - k - 1; i++)
+                    for (int i = 0; i < a.Length - k - 1; i++)
                     {
                         if (a[i] > a[i + 1])
                         {
                             temp = a[i];
                             a[i] = a[i + 1];
-                            a[i + 1] = a[i];
+                            a[i + 1] = temp;
                             flag = 1;
                         }
                     }
