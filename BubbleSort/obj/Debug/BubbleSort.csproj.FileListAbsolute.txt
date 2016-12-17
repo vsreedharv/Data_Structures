@@ -1,1 +1,6 @@
 C:\Users\Venkata\Git\Data_Structures-Repo\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Venkata\Git\Data_Structures-Repo\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Venkata\Git\Data_Structures-Repo\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Venkata\Git\Data_Structures-Repo\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\BubbleSort\obj\Debug\BubbleSort.pdb
