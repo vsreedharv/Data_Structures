@@ -1,0 +1,6 @@
+C:\Users\Venkata\Git\Data_Structures-Repo\Queue\bin\Debug\Queue.exe.config
+C:\Users\Venkata\Git\Data_Structures-Repo\Queue\bin\Debug\Queue.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\Queue\bin\Debug\Queue.pdb
+C:\Users\Venkata\Git\Data_Structures-Repo\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Venkata\Git\Data_Structures-Repo\Queue\obj\Debug\Queue.exe
+C:\Users\Venkata\Git\Data_Structures-Repo\Queue\obj\Debug\Queue.pdb
